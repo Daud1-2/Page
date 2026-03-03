@@ -41,7 +41,7 @@ export default function Home() {
           className="opening-image"
           sizes="100vw"
         />
-        <span className="opening-hint">Click here</span>
+        <span className="opening-hint">Click on stamp</span>
       </button>
     </main>
   );
