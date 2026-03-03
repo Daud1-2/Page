@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "brideName": "Priya",
+  "groomName": "Rahul",
+  "coupleNames": "Priya & Rahul",
+  "weddingDateISO": "2026-12-15",
+  "weddingDateLabel": "December 15, 2026",
+  "weddingTime": "4:00 PM",
+  "venueName": "The Grand Palace",
+  "venueAddress": "123 MG Road, Bangalore, India",
+  "venueMapLink": "https://maps.google.com/?q=The+Grand+Palace+Bangalore",
+  "events": [
+    { "name": "Ceremony", "time": "4:00 PM" },
+    { "name": "Cocktails", "time": "6:00 PM" },
+    { "name": "Reception", "time": "7:30 PM" }
+  ],
+  "rsvpMode": "whatsapp",
+  "rsvpLink": "https://wa.me/919876543210?text=Hi!%20I%20am%20confirming%20my%20attendance%20for%20your%20wedding.%20Name%3A%20%5BGuest%20name%5D",
+  "rsvpRecipientEmail": "uzariusman555@gmail.com",
+  "footerCreditUrl": "https://instagram.com/your-account",
+  "heroVideo": "/video/hero.mp4",
+  "ceremonyDetails": [
+    {
+      "name": "Nikkah",
+      "dayLabel": "Thursday",
+      "dateLabel": "August 29, 2024",
+      "timeLabel": "7:00 PM",
+      "venueName": "Marwa Marriage Hall",
+      "venueAddress": ["6 Civic Center Near Main Plaza", "Johar Town, Lahore"],
+      "venueMapLink": "https://maps.google.com/?q=Marwa+Marriage+Hall+Johar+Town+Lahore",
+      "highlights": [{ "name": "Nikkah Ceremony", "time": "7:00 PM" }],
+      "contacts": ["Mr. Suhail: 0334 9733684", "Mr. Shoaib: 0333 1454849", "Mr. Asif: 0300 4593110"]
+    },
+    {
+      "name": "Baraat",
+      "dayLabel": "Friday",
+      "dateLabel": "August 30, 2024",
+      "timeLabel": "7:00 PM",
+      "venueName": "Topaz Event Complex",
+      "venueAddress": ["265-R II, M.A.", "Johar Town, Lahore"],
+      "venueMapLink": "https://maps.google.com/?q=Topaz+Event+Complex+Johar+Town+Lahore",
+      "highlights": [
+        { "name": "Reception of Baraat", "time": "7:00 PM" },
+        { "name": "Dinner", "time": "8:00 PM" },
+        { "name": "Rukhsati", "time": "9:30 PM" }
+      ],
+      "contacts": ["Mr. Suhail: 0334 9733684", "Mr. Shoaib: 0333 1454849", "Mr. Asif: 0300 4593110"]
+    },
+    {
+      "name": "Walima",
+      "dayLabel": "Saturday",
+      "dateLabel": "August 31, 2024",
+      "timeLabel": "1:00 PM",
+      "venueName": "The Nishat Hotel",
+      "venueAddress": ["Grand Ball Room D, Nishat Banquets", "Johar Town, Lahore"],
+      "venueMapLink": "https://maps.google.com/?q=The+Nishat+Hotel+Johar+Town+Lahore",
+      "highlights": [{ "name": "Lunch", "time": "1:00 PM" }],
+      "contacts": ["Mr. Suhail: 0334 9733684", "Mr. Shoaib: 0333 1454849", "Mr. Asif: 0300 4593110"]
+    }
+  ],
+  "personalMessage": "We warmly invite you to celebrate our\nwedding day with us in the beautiful town\nof Ronda, Andalusia. We look forward to\nsharing this unforgettable moment with\nour most special people.",
+  "dressCode": "Festive Traditional",
+  "backgroundMusic": ""
+}
